@@ -19,7 +19,6 @@ function Header() {
     const h1 = document.createElement('h1');
     const temp = document.createElement('span');
 
-
     //create classes
     header.classList.add('header');
     date.classList.add('span');
